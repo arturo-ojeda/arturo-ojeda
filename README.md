@@ -1,4 +1,7 @@
-## Hi there 👋
+## Howdy 🦜
+
+Open Source:
+- [OpenClaw Basecamp Channel Plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
 
 <!--
 **arturo-ojeda/arturo-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
