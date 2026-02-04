@@ -3,7 +3,7 @@
 Open Source Creations / Contributions:
 - [🦞 OpenClaw Basecamp channel plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
 - [🍃 Home Assistant AWAIR Air quality card](https://github.com/arturo-ojeda/awair-air-quality-card)
-- 🪶 Pensieve
+- 🪶 Pensieve - save your thoughts, free your brain
 - 🏘️ Home Assistant Cuby Gas monitor integration
 - 🎸 Take it easy - MacOS MP3 slow-downer to practice guitar
 - 🗒️ Obsidian-append Raycast extension
