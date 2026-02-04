@@ -1,6 +1,6 @@
 ## Howdy 🦜
 
-Open Source Creations:
+### Open Source Creations:
 - [🦞 OpenClaw Basecamp channel plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
 - [🍃 Home Assistant AWAIR Air quality card](https://github.com/arturo-ojeda/awair-air-quality-card)
 - 🪶 Pensieve - save your thoughts, free your brain
@@ -8,8 +8,8 @@ Open Source Creations:
 - 🎸 Take it easy - MacOS MP3 slow-downer to practice guitar
 - 🗒️ Obsidian-append Raycast extension
 
-Contribution:
-- [Kamal]([https://github.com/arturo-ojeda](https://kamal-deploy.org/))
+### Contributions:
+- [Kamal]([https://github.com/arturo-ojeda](https://kamal-deploy.org/)
 
 <!--
 **arturo-ojeda/arturo-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
