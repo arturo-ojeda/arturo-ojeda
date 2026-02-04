@@ -1,6 +1,6 @@
 ## Howdy 🦜
 
-Open Source:
+Open Source Creations / Contributions:
 - [OpenClaw Basecamp Channel Plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
 
 <!--
