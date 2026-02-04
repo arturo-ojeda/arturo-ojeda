@@ -3,6 +3,10 @@
 Open Source Creations / Contributions:
 - [🦞 OpenClaw Basecamp channel plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
 - [🍃 Home Assistant AWAIR Air quality card](https://github.com/arturo-ojeda/awair-air-quality-card)
+- 🪶 Pensieve
+- 🏘️ Home Assistant Cuby Gas monitor integration
+- 🎸 Take it easy - MacOS MP3 slow-downer to practice guitar
+- 🗒️ Obsidian-append Raycast extension
 
 <!--
 **arturo-ojeda/arturo-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
