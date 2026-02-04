@@ -9,7 +9,7 @@
 - 🗒️ Obsidian-append Raycast extension
 
 ### Contributions:
-- [Kamal]([https://github.com/arturo-ojeda](https://kamal-deploy.org/)
+- [Kamal](https://kamal-deploy.org)
 
 <!--
 **arturo-ojeda/arturo-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
