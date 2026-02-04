@@ -1,7 +1,8 @@
 ## Howdy 🦜
 
 Open Source Creations / Contributions:
-- [OpenClaw Basecamp Channel Plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
+- [🦞 OpenClaw Basecamp channel plugin](https://github.com/claudia-6099/clawdbot-basecamp-plugin)
+- [🍃 Home Assistant AWAIR Air quality card](https://github.com/arturo-ojeda/awair-air-quality-card)
 
 <!--
 **arturo-ojeda/arturo-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
